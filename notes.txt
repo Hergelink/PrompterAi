@@ -1,0 +1,28 @@
+/* generate a dall-e promt for creating a ultra photorealistic, web design for a car sales platform */
+/* "Create a hyper-realistic web design for a car sales platform that showcases the vehicles in stunning detail, with intuitive navigation and seamless user experience." */
+
+/* generate a dall-e prompt for a illustration of a fox cartoon character in a mystical dark forest  */
+/* "Illustrate a fox cartoon character in a mystical dark forest setting, capturing the creature's cunning and mischievous nature while highlighting the eerie beauty of the forest." */
+
+
+"In the style of: [selection]"
+Different Styles of Illustration/ illustration styles:
+Block illustration
+Charcoal illustration
+Ink illustration
+Woodcut illustration
+Watercolor illustration
+Advertising Illustration
+Scientific illustration
+Pencil Illustration
+Collage Illustration
+Acrylic Illustration
+
+"In the style of: [selection]"
+Types of Realistic Art/ ulrta-realistic painting styles:
+Photorealism
+Hyperrealism
+Surrealism
+Magic Realism
+Metarealism
+Traditional Realism
